@@ -1,0 +1,42 @@
+:root {
+  /* Brand Colors */
+  --color-primary: #f4a7b9;
+  --color-primary-dark: #e58fa3;
+  --color-secondary: #fce4ec;
+  --color-accent: #c2185b;
+
+  /* Neutral */
+  --color-white: #ffffff;
+  --color-light: #f8f9fa;
+  --color-gray: #dee2e6;
+  --color-muted: #6c757d;
+  --color-dark: #212529;
+}
+
+/* body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--color-light);
+  color: var(--color-dark);
+  margin: 0;
+  padding: 0;
+} */
+.navbar {
+  background-color: var(--color-accent);
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar a {
+  color: var(--color-light);
+  font-weight: 500;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.new-arrivals {
+  background-color: var(--color-secondary);
+}

@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "sku": "dr-blk-001",
+    "product_name": "dress premium - black",
+    "slug": "dress-premium-black",
+    "category": "dress muslimah",
+    "original_price": 350000,
+    "sale_price": 350000,
+    "currency": "idr",
+    "weight_grams": 600,
+    "stock": {
+      "quantity": 50,
+      "status": "in stock"
+    },
+    "description": "dress muslimah elegan warna hitam pekat dengan potongan a-line. menggunakan bahan ceruty premium berlapis furing yang jatuh dan tidak menerawang.",
+    "attributes": {
+      "color": "black",
+      "material": "premium ceruty babydoll with furing",
+      "finishing": "jahit tepi rapi",
+      "feature": "busui friendly, wudhu friendly"
+    },
+    "size_guide": {
+      "dress_length": "140 cm",
+      "bust_circumference": "110 cm",
+      "sleeve_length": "58 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "dress_black.png",
+    "new_arrival": true,
+    "featured_product": true,
+    "best_seller": true,
+    "sale": false,
+    "tags": ["dress hitam", "gamis hitam", "dress syari"]
+  },
+  {
+    "id": 2,
+    "sku": "dr-nvy-002",
+    "product_name": "dress premium - navy",
+    "slug": "dress-premium-navy",
+    "category": "dress muslimah",
+    "original_price": 350000,
+    "sale_price": 350000,
+    "currency": "idr",
+    "weight_grams": 600,
+    "stock": {
+      "quantity": 45,
+      "status": "in stock"
+    },
+    "description": "dress elegan warna navy yang memberikan kesan formal dan ramping. cocok untuk acara formal maupun harian.",
+    "attributes": {
+      "color": "navy",
+      "material": "premium ceruty babydoll with furing",
+      "finishing": "jahit tepi rapi",
+      "feature": "busui friendly, wudhu friendly"
+    },
+    "size_guide": {
+      "dress_length": "140 cm",
+      "bust_circumference": "110 cm",
+      "sleeve_length": "58 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "dress_navy.png",
+    "new_arrival": true,
+    "featured_product": false,
+    "best_seller": true,
+    "sale": false,
+    "tags": ["dress navy", "gamis navy", "outfit muslimah"]
+  },
+  {
+    "id": 3,
+    "sku": "dr-crm-003",
+    "product_name": "dress premium - cream",
+    "slug": "dress-premium-cream",
+    "category": "dress muslimah",
+    "original_price": 350000,
+    "sale_price": 350000,
+    "currency": "idr",
+    "weight_grams": 600,
+    "stock": {
+      "quantity": 30,
+      "status": "in stock"
+    },
+    "description": "dress warna krem yang lembut dan cerah. material kain yang sejuk dan nyaman dipakai seharian.",
+    "attributes": {
+      "color": "cream",
+      "material": "premium ceruty babydoll with furing",
+      "finishing": "jahit tepi rapi",
+      "feature": "busui friendly, wudhu friendly"
+    },
+    "size_guide": {
+      "dress_length": "140 cm",
+      "bust_circumference": "110 cm",
+      "sleeve_length": "58 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "dress_cream.png",
+    "new_arrival": false,
+    "featured_product": true,
+    "best_seller": false,
+    "sale": false,
+    "tags": ["dress cream", "gamis pastel", "dress elegan"]
+  },
+  {
+    "id": 4,
+    "sku": "dr-arm-004",
+    "product_name": "dress premium - army",
+    "slug": "dress-premium-army",
+    "category": "dress muslimah",
+    "original_price": 350000,
+    "sale_price": 315000,
+    "currency": "idr",
+    "weight_grams": 600,
+    "stock": {
+      "quantity": 25,
+      "status": "in stock"
+    },
+    "description": "dress warna hijau army yang trendi dan unik. desain minimalis yang tetap terlihat mewah.",
+    "attributes": {
+      "color": "army",
+      "material": "premium ceruty babydoll with furing",
+      "finishing": "jahit tepi rapi",
+      "feature": "busui friendly, wudhu friendly"
+    },
+    "size_guide": {
+      "dress_length": "140 cm",
+      "bust_circumference": "110 cm",
+      "sleeve_length": "58 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "dress_army.png",
+    "new_arrival": false,
+    "featured_product": false,
+    "best_seller": false,
+    "sale": true,
+    "tags": ["dress army", "gamis army", "hijab style"]
+  },
+  {
+    "id": 5,
+    "sku": "dr-red-005",
+    "product_name": "dress premium - merah",
+    "slug": "dress-premium-merah",
+    "category": "dress muslimah",
+    "original_price": 350000,
+    "sale_price": 350000,
+    "currency": "idr",
+    "weight_grams": 600,
+    "stock": {
+      "quantity": 20,
+      "status": "in stock"
+    },
+    "description": "dress warna merah berani yang memukau. potongan rok lebar memudahkan gerak saat beraktivitas.",
+    "attributes": {
+      "color": "red",
+      "material": "premium ceruty babydoll with furing",
+      "finishing": "jahit tepi rapi",
+      "feature": "busui friendly, wudhu friendly"
+    },
+    "size_guide": {
+      "dress_length": "140 cm",
+      "bust_circumference": "110 cm",
+      "sleeve_length": "58 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "dress_red.png",
+    "new_arrival": true,
+    "featured_product": true,
+    "best_seller": false,
+    "sale": false,
+    "tags": ["dress merah", "gamis pesta", "dress muslimah"]
+  },
+  {
+    "id": 6,
+    "sku": "dr-lbr-006",
+    "product_name": "dress premium - coklat muda",
+    "slug": "dress-premium-coklat-muda",
+    "category": "dress muslimah",
+    "original_price": 350000,
+    "sale_price": 350000,
+    "currency": "idr",
+    "weight_grams": 600,
+    "stock": {
+      "quantity": 40,
+      "status": "in stock"
+    },
+    "description": "dress coklat muda yang manis dan natural. warna earth tone yang sangat digemari.",
+    "attributes": {
+      "color": "light brown",
+      "material": "premium ceruty babydoll with furing",
+      "finishing": "jahit tepi rapi",
+      "feature": "busui friendly, wudhu friendly"
+    },
+    "size_guide": {
+      "dress_length": "140 cm",
+      "bust_circumference": "110 cm",
+      "sleeve_length": "58 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "dress_light_brown.png",
+    "new_arrival": true,
+    "featured_product": false,
+    "best_seller": true,
+    "sale": false,
+    "tags": ["dress coklat", "gamis earth tone", "dress daily"]
+  },
+  {
+    "id": 7,
+    "sku": "dr-gry-007",
+    "product_name": "dress premium - abu",
+    "slug": "dress-premium-abu",
+    "category": "dress muslimah",
+    "original_price": 350000,
+    "sale_price": 299000,
+    "currency": "idr",
+    "weight_grams": 600,
+    "stock": {
+      "quantity": 15,
+      "status": "limited stock"
+    },
+    "description": "dress minimalis warna abu-abu. tampil simpel namun tetap berkelas dengan harga terjangkau.",
+    "attributes": {
+      "color": "grey",
+      "material": "premium ceruty babydoll with furing",
+      "finishing": "jahit tepi rapi",
+      "feature": "busui friendly, wudhu friendly"
+    },
+    "size_guide": {
+      "dress_length": "140 cm",
+      "bust_circumference": "110 cm",
+      "sleeve_length": "58 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "dress_grey.png",
+    "new_arrival": false,
+    "featured_product": false,
+    "best_seller": false,
+    "sale": true,
+    "tags": ["dress abu", "gamis promo", "dress modern"]
+  },
+  {
+    "id": 8,
+    "sku": "dr-lgr-008",
+    "product_name": "dress premium - hijau muda",
+    "slug": "dress-premium-hijau-muda",
+    "category": "dress muslimah",
+    "original_price": 350000,
+    "sale_price": 350000,
+    "currency": "idr",
+    "weight_grams": 600,
+    "stock": {
+      "quantity": 20,
+      "status": "in stock"
+    },
+    "description": "dress warna hijau muda yang segar. pilihan tepat untuk tampilan yang ceria namun tetap sopan.",
+    "attributes": {
+      "color": "light green",
+      "material": "premium ceruty babydoll with furing",
+      "finishing": "jahit tepi rapi",
+      "feature": "busui friendly, wudhu friendly"
+    },
+    "size_guide": {
+      "dress_length": "140 cm",
+      "bust_circumference": "110 cm",
+      "sleeve_length": "58 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "dress_light_green.png",
+    "new_arrival": true,
+    "featured_product": true,
+    "best_seller": false,
+    "sale": false,
+    "tags": ["dress hijau", "gamis cerah", "dress wanita"]
+  },
+  {
+    "id": 9,
+    "sku": "kh-blk-001",
+    "product_name": "khimar premium - black",
+    "slug": "khimar-premium-black",
+    "category": "hijab syari",
+    "original_price": 145000,
+    "sale_price": 145000,
+    "currency": "idr",
+    "weight_grams": 250,
+    "stock": {
+      "quantity": 50,
+      "status": "in stock"
+    },
+    "description": "khimar instan dengan potongan v-shape yang memberikan kesan elegan dan ramping.",
+    "attributes": {
+      "color": "deep black",
+      "material": "premium ceruty babydoll",
+      "finishing": "jahit tepi rapi",
+      "feature": "aksen logo gold metal premium"
+    },
+    "size_guide": {
+      "front_length": "90 cm",
+      "back_length": "125 cm",
+      "face_circumference": "54 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "khimar_black.png",
+    "new_arrival": true,
+    "featured_product": true,
+    "best_seller": true,
+    "sale": false,
+    "tags": ["khimar syari", "hijab hitam", "khimar v-shape"]
+  },
+  {
+    "id": 10,
+    "sku": "kh-nvy-002",
+    "product_name": "khimar premium - navy",
+    "slug": "khimar-premium-navy",
+    "category": "hijab syari",
+    "original_price": 145000,
+    "sale_price": 145000,
+    "currency": "idr",
+    "weight_grams": 250,
+    "stock": {
+      "quantity": 35,
+      "status": "in stock"
+    },
+    "description": "khimar instan warna navy yang memberikan kesan formal dan anggun.",
+    "attributes": {
+      "color": "navy blue",
+      "material": "premium ceruty babydoll",
+      "finishing": "jahit tepi rapi",
+      "feature": "aksen logo gold metal premium"
+    },
+    "size_guide": {
+      "front_length": "90 cm",
+      "back_length": "125 cm",
+      "face_circumference": "54 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "khimar_navy.png",
+    "new_arrival": true,
+    "featured_product": false,
+    "best_seller": true,
+    "sale": false,
+    "tags": ["khimar navy", "hijab instan", "khimar ceruty"]
+  },
+  {
+    "id": 11,
+    "sku": "kh-crm-003",
+    "product_name": "khimar premium - cream",
+    "slug": "khimar-premium-cream",
+    "category": "hijab syari",
+    "original_price": 145000,
+    "sale_price": 125000,
+    "currency": "idr",
+    "weight_grams": 250,
+    "stock": {
+      "quantity": 20,
+      "status": "in stock"
+    },
+    "description": "khimar dengan warna krem yang lembut, cocok dipadukan dengan berbagai warna gamis.",
+    "attributes": {
+      "color": "cream / beige",
+      "material": "premium ceruty babydoll",
+      "finishing": "jahit tepi rapi",
+      "feature": "aksen logo gold metal premium"
+    },
+    "size_guide": {
+      "front_length": "90 cm",
+      "back_length": "125 cm",
+      "face_circumference": "54 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "khimar_cream.png",
+    "new_arrival": false,
+    "featured_product": true,
+    "best_seller": false,
+    "sale": true,
+    "tags": ["khimar cream", "hijab pastel", "khimar syari cream"]
+  },
+  {
+    "id": 12,
+    "sku": "kh-arm-004",
+    "product_name": "khimar premium - army",
+    "slug": "khimar-premium-army",
+    "category": "hijab syari",
+    "original_price": 145000,
+    "sale_price": 129000,
+    "currency": "idr",
+    "weight_grams": 250,
+    "stock": {
+      "quantity": 10,
+      "status": "limited stock"
+    },
+    "description": "khimar warna hijau army yang unik dan trendi. memberikan look yang fresh namun tetap syari.",
+    "attributes": {
+      "color": "army green",
+      "material": "premium ceruty babydoll",
+      "finishing": "jahit tepi rapi",
+      "feature": "aksen logo gold metal premium"
+    },
+    "size_guide": {
+      "front_length": "90 cm",
+      "back_length": "125 cm",
+      "face_circumference": "54 cm"
+    },
+    "care_instructions": "cuci tangan perlahan, jangan gunakan pemutih, setrika dengan suhu rendah.",
+    "image": "khimar_army.png",
+    "new_arrival": false,
+    "featured_product": false,
+    "best_seller": false,
+    "sale": true,
+    "tags": ["khimar army", "hijab hijau army", "khimar ceruty premium"]
+  }
+]
